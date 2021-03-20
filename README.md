@@ -29,9 +29,8 @@ ____________
 An Android phone with bluetooth feature
 ____________
 ## Target Audience
-* Working professionals
-* Students
-* Social Workers
+* People in Closed Environments(college Students)
+
 ________
 ## Novelty of the Project
 
