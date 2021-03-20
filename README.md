@@ -26,7 +26,7 @@ _________
 * XML
 ____________
 ## Requirements analysis:
-An Android phone with bluetooth feature
+An Android phone with bluetooth capability
 ____________
 ## Target Audience
 * People in Closed Environments(college Students)
