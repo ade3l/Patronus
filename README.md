@@ -39,7 +39,7 @@ ________
 Patronus is an android contact tracing app which serves as a crucial social measure to prevent any risk that you might carry going out. It helps limit the spread of coronavirus. We believe that it can help those on campus to prioritize their health.Our goal is simply to provide a tool people can use to protect themselves and their loved ones. 
 _______
 ## UI/UX
-![WhatsApp Image 2021-03-21 at 6 12 49 AM](https://user-images.githubusercontent.com/72293452/111890359-a194f080-8a0e-11eb-8784-0301868a8d72.jpeg)
+<img src="https://user-images.githubusercontent.com/72293452/111890359-a194f080-8a0e-11eb-8784-0301868a8d72.jpeg" width="50%)
 ![WhatsApp Image 2021-03-21 at 6 12 49 AM (1)](https://user-images.githubusercontent.com/72293452/111890360-a3f74a80-8a0e-11eb-81e4-7f2a37145501.jpeg)
 ![WhatsApp Image 2021-03-21 at 6 12 49 AM (2)](https://user-images.githubusercontent.com/72293452/111890362-a659a480-8a0e-11eb-81ae-1af70fbf1f21.jpeg)
 ![WhatsApp Image 2021-03-21 at 6 12 49 AM (3)](https://user-images.githubusercontent.com/72293452/111890364-a9549500-8a0e-11eb-908b-11308d4d3b77.jpeg)
