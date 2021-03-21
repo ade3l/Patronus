@@ -2,8 +2,10 @@
  PATRONUS
  </h1>
 <p align="center">
-<img src="">
+<img src="![Screenshot 2021-03-21 at 3 56 16 AM](https://user-images.githubusercontent.com/72293452/111889226-9be8dc00-8a09-11eb-9e0a-66cee9b40b9b.png)
+">
 </p>
+![Screenshot 2021-03-21 at 3 56 16 AM](https://user-images.githubusercontent.com/72293452/111889229-a86d3480-8a09-11eb-9c2f-4ca9551dc233.png)
 
 ### Table of Contents
 * About the Product
@@ -15,9 +17,10 @@
 * Creators
 __________
 ## About the Product
+Many universities like Manipal and IIT Madras reported a lot of cases a week after opening their campus.This was mainly because the students didn't really know who they were coming in close contact with And a lot of these kinds are situation are coming up time and again. 
 In this pandemic, all we need to do is stay safe, but how do we do that if we don't know who's infected and who's not?
 Here's PATRONUS! 
-A secure and private contact tracer app that functions on bluetooth technology which detects and logs with who you came in contact with. It collects only essential data like frequent contacts, so u don't need to worry about any personal data getting in the wrong hands. Also admins can very easily set the status of someone who turns positive and the app will do the rest and set the health status of everyone that is at the risk of contamination.
+Our team TechBash has come with a solution, PATRONUS, a contact tracer app, which works on bluetooth technology, that detects and logs who u come in contact with. Also the admin can very easily set the status of someone who turns positive and the app will do the rest and set the status of everyone that is at risk of contamination.It collects only essential data like frequent contacts so you won't need to worry about any personal data getting in the wrong hands. 
 _________
 ## Tech stack:
 * Android Studio
@@ -33,7 +36,7 @@ ____________
 
 ________
 ## Novelty of the Project
-
+Patronus is an android contact tracing app which serves as a crucial social measure to prevent any risk that you might carry going out. It helps limit the spread of coronavirus. We believe that it can help those on campus to prioritize their health.Our goal is simply to provide a tool people can use to protect themselves and their loved ones. 
 _______
 ## UI/UX
 
