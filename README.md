@@ -2,10 +2,9 @@
  PATRONUS
  </h1>
 <p align="center">
-<img src="![Screenshot 2021-03-21 at 3 56 16 AM](https://user-images.githubusercontent.com/72293452/111889226-9be8dc00-8a09-11eb-9e0a-66cee9b40b9b.png)
-">
+<img src="https://user-images.githubusercontent.com/72293452/111889226-9be8dc00-8a09-11eb-9e0a-66cee9b40b9b.png">
 </p>
-![Screenshot 2021-03-21 at 3 56 16 AM](https://user-images.githubusercontent.com/72293452/111889229-a86d3480-8a09-11eb-9c2f-4ca9551dc233.png)
+
 
 ### Table of Contents
 * About the Product
@@ -40,12 +39,11 @@ Patronus is an android contact tracing app which serves as a crucial social meas
 _______
 ## UI/UX
 <div>
-<img src="https://user-images.githubusercontent.com/72293452/111890359-a194f080-8a0e-11eb-8784-0301868a8d72.jpeg" width="1250px">
-<img src="https://user-images.githubusercontent.com/72293452/111890360-a3f74a80-8a0e-11eb-81e4-7f2a37145501.jpeg" width="1250">
- <?div>
-![WhatsApp Image 2021-03-21 at 6 12 49 AM (2)](https://user-images.githubusercontent.com/72293452/111890362-a659a480-8a0e-11eb-81ae-1af70fbf1f21.jpeg)
-![WhatsApp Image 2021-03-21 at 6 12 49 AM (3)](https://user-images.githubusercontent.com/72293452/111890364-a9549500-8a0e-11eb-908b-11308d4d3b77.jpeg)
-![WhatsApp Image 2021-03-21 at 6 12 49 AM (4)](https://user-images.githubusercontent.com/72293452/111890366-aa85c200-8a0e-11eb-9fb8-7c75874c0f41.jpeg)
+<img src="https://user-images.githubusercontent.com/72293452/111890359-a194f080-8a0e-11eb-8784-0301868a8d72.jpeg" width="1250"/>
+<img src="https://user-images.githubusercontent.com/72293452/111890360-a3f74a80-8a0e-11eb-81e4-7f2a37145501.jpeg" width="1250"/>
+<img src="https://user-images.githubusercontent.com/72293452/111890362-a659a480-8a0e-11eb-81ae-1af70fbf1f21.jpeg" width=1250")/>
+<img src="https://user-images.githubusercontent.com/72293452/111890364-a9549500-8a0e-11eb-908b-11308d4d3b77.jpeg" width="1250"/>
+<img src="https://user-images.githubusercontent.com/72293452/111890366-aa85c200-8a0e-11eb-9fb8-7c75874c0f41.jpeg" width="1250"/>
 
 
 ___
